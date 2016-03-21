@@ -1,9 +1,9 @@
 # Site settings
 title: Adrian's Profile
-email: hello@wheelhouse.io
+email: github@pixoria.net
 description: > # this means to ignore newlines until "baseurl:"
   Learn to use GitHub pages with Wheelhouse.io and Patchwork!
-baseurl: "/project-gh-pages"
+baseurl: "/pixelpanic"
 url: "http://wheehouseio.github.io"
 twitter_username: WheelhouseIO
 github_username:  wheelhouseio
